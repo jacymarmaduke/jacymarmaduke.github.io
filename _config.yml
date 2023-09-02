@@ -3,8 +3,11 @@ logo: "/images/image.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   About 
   <br><br>
-  Second description 
+  Resume 
   <br><br>
+  Case Studies
+  <br><br>
+  Contact
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
