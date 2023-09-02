@@ -8,7 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
    <br><br>
   <a href="https://jacymarmaduke.github.io/pdf/JacyMarmadukeCV.pdf">Resume</a>   
   <br><br>
-  Contact
+  <a href="https://jacymarmaduke.github.io/contact">Contact</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
