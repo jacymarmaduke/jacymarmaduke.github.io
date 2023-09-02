@@ -9,8 +9,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://jacymarmaduke.github.io/pdf/sample_presentation.pdf">Resume</a>   
   <br><br>
   Contact
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
