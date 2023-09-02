@@ -1,4 +1,4 @@
-d ## Let's talk!
+## Let's talk!
 
 I'm available for full-time or contract positions as well as freelance work. Here's how to reach me:
 
