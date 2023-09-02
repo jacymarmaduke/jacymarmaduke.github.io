@@ -1,6 +1,6 @@
-## Let's talk!
+## Get in touch
 
-I'm available for full-time or contract positions as well as freelance work. Here's how to reach me:
+I'm available for full-time or contract positions as well as freelance work, whether remote or near my homebase of Essen, Germany. If you'd like to work together or you have any leads on good Mexican food in Western Germany, let's talk!
 
 **Email**: jacymarmaduke (at) gmail (dot) com
 
