@@ -6,11 +6,12 @@
 
 SHORT DESCRIPTION
 
-How I did it: [View case study](/pdf/sample_presentation.pdf)
+How I did it: [View case study](/pdf/germanRentCaseStudy.pdf)
+<img src="images/rentCaseStudySS.png?raw=true"/>
 
-Results: [Tableau stoyboard](https://public.tableau.com/app/profile/jacquelyn.marmaduke/viz/Germanrentvisuals/Germanrentstoryboard?publish=yes) | [GitHub repository](https://github.com/jacymarmaduke/rent-analysis)
+Results: [Tableau stoyboard](https://public.tableau.com/app/profile/jacquelyn.marmaduke/viz/GermanRentStoryboard/Germanrentstoryboard?publish=yes) | [GitHub repository](https://github.com/jacymarmaduke/rent-analysis)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/rentStoryBoardSS.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
