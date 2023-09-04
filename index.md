@@ -4,6 +4,8 @@
 
 ### Analyzing German Apartment Data in Python
 
+SHORT DESCRIPTION
+
 How I did it: [View case study](/pdf/sample_presentation.pdf)
 
 Results: [Tableau stoyboard](https://public.tableau.com/app/profile/jacquelyn.marmaduke/viz/Germanrentvisuals/Germanrentstoryboard?publish=yes) | [GitHub repository](https://github.com/jacymarmaduke/rent-analysis)
