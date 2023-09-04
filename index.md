@@ -9,7 +9,7 @@ How I did it: [View case study](/pdf/germanRentCaseStudy.pdf)
 
 Results: [Tableau stoyboard](https://public.tableau.com/app/profile/jacquelyn.marmaduke/viz/GermanRentStoryboard/Germanrentstoryboard?publish=yes) // [GitHub repository](https://github.com/jacymarmaduke/rent-analysis)
 
-<img src="images/rentStoryBoardSS.png?raw=true"/>
+<img src="images/rentStoryboardSS.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
