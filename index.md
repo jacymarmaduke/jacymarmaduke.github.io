@@ -13,7 +13,10 @@ Results: [Tableau stoyboard](https://public.tableau.com/app/profile/jacquelyn.ma
 <img src="images/rentCaseStudySS.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+
+### Creating a Flu Season Hospital Staffing Plan with Excel
+
+Results: [Tableau stoyboard](https://public.tableau.com/app/profile/jacquelyn.marmaduke/viz/influenzastoryboard/Story1?publish=yes))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
