@@ -14,14 +14,17 @@ Results: [Tableau stoyboard](https://public.tableau.com/app/profile/jacquelyn.ma
 
 ---
 
-### Creating a Flu Season Hospital Staffing Plan with Excel and Tableau
+### Prioritizing States for Flu Season Hospital Support with Excel and Tableau
 
 Results: [Tableau stoyboard](https://public.tableau.com/app/profile/jacquelyn.marmaduke/viz/influenzastoryboard/Story1?publish=yes)
 <img src="images/fluVizCombo.png?raw=true"/>
 
 ---
+
+### Retail Inventory and Transaction Analysis with SQL
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Results: [GitHub repository](https://github.com/jacymarmaduke/SQL_queries_movies) // [Stakeholder presentation](/pdf/sqlPres.pdf)
+<img src="images/sqlSS.png?raw=true"/>
 
 ---
 
