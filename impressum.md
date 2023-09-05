@@ -15,7 +15,7 @@ Kontakt:
 
 Telefon: 0172-525-9219
 
-E-Mail: jacymarmaduke@gmail.com
+E-Mail: jacymarmaduke (at) gmail.com
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
