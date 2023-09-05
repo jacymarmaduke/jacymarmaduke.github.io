@@ -17,6 +17,7 @@ Results: [Tableau stoyboard](https://public.tableau.com/app/profile/jacquelyn.ma
 ### Prioritizing States for Flu Season Hospital Support with Excel and Tableau
 
 Results: [Tableau stoyboard](https://public.tableau.com/app/profile/jacquelyn.marmaduke/viz/influenzastoryboard/Story1?publish=yes)
+
 <img src="images/fluVizCombo.png?raw=true"/>
 
 ---
@@ -24,6 +25,7 @@ Results: [Tableau stoyboard](https://public.tableau.com/app/profile/jacquelyn.ma
 ### Crafting Grocery Store Customer Profiles with Python
 
 Results: [GitHub repository](https://github.com/jacymarmaduke/python_instacart)
+
 <img src="images/timeDayCombo.png?raw=true"/>
 
 ---
@@ -31,6 +33,7 @@ Results: [GitHub repository](https://github.com/jacymarmaduke/python_instacart)
 ### Retail Inventory and Transaction Analysis with SQL
 
 Results: [GitHub repository](https://github.com/jacymarmaduke/SQL_queries_movies) // [Stakeholder presentation](/pdf/sqlPres.pdf)
+
 <img src="images/sqlSS.png?raw=true"/>
 
 ---
