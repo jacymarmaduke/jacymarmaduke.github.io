@@ -2,17 +2,27 @@
 Angaben gemäß § 5 TMG
 
 Jacy Marmaduke
+
 Asthöwerstrasse 6
+
 45147 Essen
+
 Vertreten durch:
+
 Jacy Marmaduke
+
 Kontakt:
+
 Telefon: 0172-525-9219
+
 E-Mail: jacymarmaduke@gmail.com
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
+
 Jacy Marmaduke
+
 Asthöwerstrasse 6
+
 45147 Essen
 
 Haftungsausschluss:
