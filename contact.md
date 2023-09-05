@@ -5,3 +5,5 @@ I'm available for full-time or contract positions as well as freelance work, whe
 **Email**: jacymarmaduke (at) gmail (dot) com
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/jacy-marmaduke-69207935/)
+
+[Impressum](https://jacymarmaduke.github.io/impressum)
