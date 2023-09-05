@@ -21,23 +21,19 @@ Results: [Tableau stoyboard](https://public.tableau.com/app/profile/jacquelyn.ma
 
 ---
 
+### Crafting Grocery Store Customer Profiles with Python
+
+Results: [GitHub repository](https://github.com/jacymarmaduke/python_instacart)
+<img src="images/timeDayCombo.png?raw=true"/>
+
+---
+
 ### Retail Inventory and Transaction Analysis with SQL
-[Project 3 Title](http://example.com/)
+
 Results: [GitHub repository](https://github.com/jacymarmaduke/SQL_queries_movies) // [Stakeholder presentation](/pdf/sqlPres.pdf)
 <img src="images/sqlSS.png?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
 
 
 
