@@ -6,12 +6,9 @@
 
 DESCRIPTION
 
-Results: [Tableau stoyboard](https://public.tableau.com/app/profile/jacquelyn.marmaduke/viz/GermanRentStoryboard/Germanrentstoryboard?publish=yes) // [GitHub repository](https://github.com/jacymarmaduke/rent-analysis)
+Results: [Tableau stoyboard](https://public.tableau.com/app/profile/jacquelyn.marmaduke/viz/GermanRentStoryboard/Germanrentstoryboard?publish=yes) // [GitHub repository](https://github.com/jacymarmaduke/rent-analysis) // [View case study](/pdf/germanRentCaseStudy.pdf)
 
 <img src="images/rentStoryboardSS.png?raw=true"/>
-
-[View case study](/pdf/germanRentCaseStudy.pdf)
-
 
 ---
 
