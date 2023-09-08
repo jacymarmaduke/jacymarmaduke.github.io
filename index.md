@@ -20,7 +20,7 @@ Results: [Tableau stoyboard](https://public.tableau.com/app/profile/jacquelyn.ma
 
 ### Tracking the Repercussions of Unmoderated Water Use on Public Lands
 
-Results: [Interactive investigation published in USA Today](https://eu.usatoday.com/in-depth/news/nation/2021/11/22/us-forest-service-water-management-limited-oversight-diversions/8717970002/)
+Results: [Investigation published in USA Today](https://eu.usatoday.com/in-depth/news/nation/2021/11/22/us-forest-service-water-management-limited-oversight-diversions/8717970002/)
 
 •	Hunted down public records and combined extensive data wrangling with insights from dozens of subject matter experts to produce this interactive investigation of unmitigated water use on public lands amid an American water crisis, weaving a narrative from the foundation of an unwieldy and opaque government dataset.
 
