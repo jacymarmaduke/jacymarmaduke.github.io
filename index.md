@@ -37,6 +37,7 @@ Results: [Investigation published in USA Today](https://eu.usatoday.com/in-depth
 Results: [Tableau stoyboard](https://public.tableau.com/app/profile/jacquelyn.marmaduke/viz/influenzastoryboard/Story1?publish=yes)
 
 •	Designed state-by-state recommendations for hospital staffing support during flu season based on historic flu mortality and population data, carrying out data merging and hypothesis-testing in Excel.
+
 •	Created interactive maps and data visualizations to guide stakeholders through tiered recommendations for prioritizing states with older population, high mortality and fast-rising mortality relative to population.
 
 ---
