@@ -32,7 +32,7 @@ Results: [Investigation published in USA Today](https://eu.usatoday.com/in-depth
 
 <img src="images/fluVizCombo.png?raw=true"/>
 
-### Prioritizing States for Flu Season Hospital Support with Excel and Tableau
+### Planning Flu Season Hospital Support with Excel and Tableau
 
 Results: [Tableau stoyboard](https://public.tableau.com/app/profile/jacquelyn.marmaduke/viz/influenzastoryboard/Story1?publish=yes)
 
