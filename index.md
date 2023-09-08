@@ -2,9 +2,9 @@
 
 ---
 
-<img src="images/rentStoryboardSS.png?raw=true"/>
-
 ### Analyzing German Apartment Data in Python
+
+<img src="images/rentStoryboardSS.png?raw=true"/>
 
 Results: [Tableau stoyboard](https://public.tableau.com/app/profile/jacquelyn.marmaduke/viz/GermanRentStoryboard/Germanrentstoryboard?publish=yes) // [GitHub repository](https://github.com/jacymarmaduke/rent-analysis) // [View case study](/pdf/germanRentCaseStudy.pdf)
 
@@ -16,9 +16,9 @@ Results: [Tableau stoyboard](https://public.tableau.com/app/profile/jacquelyn.ma
 
 ---
 
-<img src="images/forestWaterViz.png?raw=true"/>
-
 ### Tracking the Repercussions of Heavy Water Use on Public Lands
+
+<img src="images/forestWaterViz.png?raw=true"/>
 
 Results: [Investigation published in USA Today](https://eu.usatoday.com/in-depth/news/nation/2021/11/22/us-forest-service-water-management-limited-oversight-diversions/8717970002/)
 
@@ -30,9 +30,9 @@ Results: [Investigation published in USA Today](https://eu.usatoday.com/in-depth
 
 ---
 
-<img src="images/fluVizCombo.png?raw=true"/>
-
 ### Planning Flu Season Hospital Support with Excel and Tableau
+
+<img src="images/fluVizCombo.png?raw=true"/>
 
 Results: [Tableau stoyboard](https://public.tableau.com/app/profile/jacquelyn.marmaduke/viz/influenzastoryboard/Story1?publish=yes)
 
