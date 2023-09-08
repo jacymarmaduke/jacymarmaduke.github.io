@@ -16,7 +16,7 @@ Results: [Tableau stoyboard](https://public.tableau.com/app/profile/jacquelyn.ma
 
 ---
 
-### Tracking the Repercussions of Heavy Water Use on Public Lands
+### Tracking the Consequences of Heavy Water Use on Public Lands
 
 <img src="images/forestWaterViz.png?raw=true"/>
 
