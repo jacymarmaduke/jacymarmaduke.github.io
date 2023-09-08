@@ -62,6 +62,7 @@ Results: [GitHub repository](https://github.com/jacymarmaduke/SQL_queries_movies
 
 •	Cleaned, queried and analyzed a 15-table retail database, using techniques such as Common Table Expressions, table joins, subqueries and data-filtering to tailor business recommendations based on customer, inventory and transaction data.
 
+
 ---
 
 
