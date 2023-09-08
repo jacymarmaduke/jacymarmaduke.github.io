@@ -18,7 +18,7 @@ Results: [Tableau stoyboard](https://public.tableau.com/app/profile/jacquelyn.ma
 
 <img src="images/forestWaterViz.png?raw=true"/>
 
-### Tracking the Repercussions of Unmoderated Water Use on Public Lands
+### Tracking the Repercussions of Heavy Water Use on Public Lands
 
 Results: [Investigation published in USA Today](https://eu.usatoday.com/in-depth/news/nation/2021/11/22/us-forest-service-water-management-limited-oversight-diversions/8717970002/)
 
@@ -36,7 +36,7 @@ Results: [Investigation published in USA Today](https://eu.usatoday.com/in-depth
 
 Results: [Tableau stoyboard](https://public.tableau.com/app/profile/jacquelyn.marmaduke/viz/influenzastoryboard/Story1?publish=yes)
 
-•	Designed state-by-state recommendations for hospital staffing support during flu season based on historic flu mortality and population data, carrying out data merging and hypothesis-testing in Excel.
+•	Designed state-by-state recommendations for hospital staffing reinforcements during flu season based on historic flu mortality and population data, carrying out data merging and hypothesis-testing in Excel.
 
 •	Created interactive maps and data visualizations to guide stakeholders through tiered recommendations for prioritizing states with older population, high mortality and fast-rising mortality relative to population.
 
