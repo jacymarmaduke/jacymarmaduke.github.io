@@ -8,9 +8,9 @@
 
 Results: [Tableau stoyboard](https://public.tableau.com/app/profile/jacquelyn.marmaduke/viz/GermanRentStoryboard/Germanrentstoryboard?publish=yes) // [GitHub repository](https://github.com/jacymarmaduke/rent-analysis) // [View case study](/pdf/germanRentCaseStudy.pdf)
 
-I used Python and Tableau to design a data-driven guide to apartment hunting in Germany for renters new to the country. The project was based on a dataset of over 250,000 web-scraped apartment listings and a dataset of population figures that I collected and transformed independently. 
+I used Python and Tableau to design a data-driven guide to apartment hunting in Germany for renters new to the country. The project was based on a dataset of web-scraped apartment listings and independently transformed German population data. 
 
-The results were four-fold: Analyzing the data revealed some of the most influential factors driving rent, mapping it showed what renters can expect for rents at a high and granular level, clustering the units uncovered distinct apartment "personality types" and creating a new "hidden gem" variable offered a tool to help newcomers find good deals on apartments in higher-demand locales.
+The results were comprehensive: Analyzing the data revealed some of the most influential factors driving rent, mapping it showed what renters can expect for rents at a high and granular level, clustering it yielded distinct apartment "personality types" and creating a new variable offered a tool to help newcomers find good deals  in high-demand locales.
 
 ---
 
