@@ -9,6 +9,6 @@ Whether the final product is a storyboard, an oral presentation or a quick email
 
 I’m looking for opportunities where I can take a creative and collaborative approach to data analysis that centers customer and client experience, whether in a full-time or part-time capacity. 
 
-Fun facts about me: I'm a twin, I have an orange cat named Arthur who's known to convert self-professed feline-haters, and I'm always up for karaoke.
+Fun facts about me: I'm a twin, I have an orange cat named Arthur who's converted more than one feline-hater, and I'm always up for karaoke.
 
 
