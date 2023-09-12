@@ -19,7 +19,7 @@ As an additional tool for renters, I created and mapped a new "hidden gem" stati
 
 Results: [Investigation published in USA Today](https://eu.usatoday.com/in-depth/news/nation/2021/11/22/us-forest-service-water-management-limited-oversight-diversions/8717970002/)
 
-For this data journalism project, I used hard-won public records, expert interviews and extensive Excel data wrangling to create an interactive investigation of unmitigated water use on public lands amid a water crisis. The project's interactive data visualizations connect with both general and specialized viewers, offering opportunities to dive deeper through maps, charts and a virtual flight along a drought-stricken river. Mapping the water use and climate change data were especially important steps in conveying the scope of the problem. This project showcases my ability to find the story in complex datasets and show the viewer why the findings are important, a crucial skill for both journalism and data analysis.  
+For this data journalism project, I leveraged hard-won public records, expert interviews and extensive Excel data wrangling to create an interactive investigation of unmitigated water use on public lands amid a water crisis. The project's interactive data visualizations connect with both general and specialized viewers, offering opportunities to dive deeper through maps, charts and a virtual flight along a drought-stricken river. Mapping the water use and climate change data were especially important steps in conveying the scope of the problem. This project showcases my ability to find the story in complex datasets and show the viewer why the findings are important, a crucial skill for both journalism and data analysis.  
 
 ---
 
